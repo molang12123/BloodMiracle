@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87f9f57407faff45afd4dbb1c7fba0e, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  className: Warrior
+  currentHP: 100
+  maxHP: 100
+  startingGold: 100
+  characterPortrait: {fileID: 0}
+  characterDescription: 
+  attackCards:
+  - {fileID: 11400000, guid: d7cc485836a5e5944a7dabbc1195b7b1, type: 2}
+  - {fileID: 11400000, guid: d7cc485836a5e5944a7dabbc1195b7b1, type: 2}
+  - {fileID: 11400000, guid: d7cc485836a5e5944a7dabbc1195b7b1, type: 2}
+  - {fileID: 11400000, guid: d7cc485836a5e5944a7dabbc1195b7b1, type: 2}
+  - {fileID: 11400000, guid: d7cc485836a5e5944a7dabbc1195b7b1, type: 2}
+  defenseCards:
+  - {fileID: 11400000, guid: 7fa14abafecbe9a40a40a6cd8e296202, type: 2}
+  - {fileID: 11400000, guid: 7fa14abafecbe9a40a40a6cd8e296202, type: 2}
+  - {fileID: 11400000, guid: 7fa14abafecbe9a40a40a6cd8e296202, type: 2}
+  - {fileID: 11400000, guid: 7fa14abafecbe9a40a40a6cd8e296202, type: 2}
+  - {fileID: 11400000, guid: 7fa14abafecbe9a40a40a6cd8e296202, type: 2}
+  skillCards:
+  - {fileID: 11400000, guid: 44552bf34c807db4c99e75dbc4ca94b9, type: 2}
+  - {fileID: 11400000, guid: 8eadc2a5ee9d6854184a9b86b91874d1, type: 2}
