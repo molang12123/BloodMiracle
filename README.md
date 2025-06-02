@@ -16,7 +16,7 @@ Choose your class, build your deck, battle enemies, and reach the final boss —
 
 - **Solo Developer**: [@molang12123](https://github.com/molang12123)  
 - **Development Duration**: 7 Days  
-- **Engine**: Unity
+- **Engine**: Unity 6000.0.38f1
 - **Language**: C#  
 - **Tools Used**: Unity, Unity Recorder, Git, GitHub
 🎬 [**Watch the Official Trailer**]((https://t.bilibili.com/1073907807359598615?share_source=pc_native))
