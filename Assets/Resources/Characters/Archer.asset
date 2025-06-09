@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Archer
   m_EditorClassIdentifier: 
   className: Archer
-  currentHP: 855
-  maxHP: 855
+  currentHP: 32
+  maxHP: 85
   startingGold: 100
   characterPortrait: {fileID: 0}
   characterDescription: 

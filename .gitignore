@@ -1,14 +1,26 @@
-#忽略 Vs 缓存
-.vs/
-*.csproj
-*.sln
-*.user
-
-#unity 缓存
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-MemoryCaptures/
+
+# VS/JetBrains
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db

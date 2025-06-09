@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aa8cb3b744b28441b606ec7a5c8d289, type: 3}
+  m_Name: OldWitch
+  m_EditorClassIdentifier: 
+  eventName: ' A witch'
+  description: A witch walks up to you, "Seeking life or wealth?"
+  choices:
+  - description: Wealth is everything!
+    hpChange: -10
+    goldChange: 50
+    removeRandomCard: 0
+    resultMessage: A flash of light appeared before your eyes, and a pile of gold
+      coins appeared in front of you... The witch disappeared...
+  - description: Life is the starting point of everything
+    hpChange: 30
+    goldChange: -10
+    removeRandomCard: 0
+    resultMessage: You notice that your wounds are suddenly healing... The witch
+      is gone...

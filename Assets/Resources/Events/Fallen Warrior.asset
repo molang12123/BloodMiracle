@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aa8cb3b744b28441b606ec7a5c8d289, type: 3}
+  m_Name: Fallen Warrior
+  m_EditorClassIdentifier: 
+  eventName: Fallen Warrior
+  description: You met a warrior who exudes the aura of the abyss?
+  choices:
+  - description: Watching him warily...
+    hpChange: 0
+    goldChange: 0
+    removeRandomCard: 0
+    resultMessage: He looked at you with those confused eyes and walked away...
+  - description: Raise your weapons against him... The pollution of the abyss must
+      not be spared...
+    hpChange: -15
+    goldChange: 0
+    removeRandomCard: 0
+    resultMessage: You immediately feel a suffocating sensation, but you recover
+      after a few seconds... He is gone...
