@@ -44,6 +44,27 @@ public class GameData : MonoBehaviour
         InitPaths();
     }
 
+    public void AddGold(int amount)
+    {
+        gold += amount;
+        Debug.Log($"获得金币：+{amount}，当前金币：{gold}");
+    }
+
+    public bool SpendGold(int amount)
+    {
+        if (gold >= amount)
+        {
+            gold -= amount;
+            Debug.Log($"消耗金币：-{amount}，当前金币：{gold}");
+            return true;
+        }
+        else
+        {
+            Debug.LogWarning($"金币不足，当前金币：{gold}，需要：{amount}");
+            return false;
+        }
+    }
+
     public void ResetData()
     {
         CharacterData character = SelectedCharacter.Instance.characterData;

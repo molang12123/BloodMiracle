@@ -46,19 +46,24 @@ public class EventManager : MonoBehaviour
 
     void OnChoiceSelected(EventChoice choice)
     {
-        // 直接修改 GameData
         GameData.Instance.currentHP += choice.hpChange;
         GameData.Instance.currentHP = Mathf.Clamp(GameData.Instance.currentHP, 0, GameData.Instance.maxHP);
-        GameData.Instance.gold += choice.goldChange;
+
+        if (choice.goldChange > 0)
+        {
+            GameData.Instance.AddGold(choice.goldChange);
+        }
+        else if (choice.goldChange < 0)
+        {
+            GameData.Instance.SpendGold(-choice.goldChange);
+        }
 
         Debug.Log($"事件后血量：{GameData.Instance.currentHP}/{GameData.Instance.maxHP}");
         Debug.Log($"事件后金币：{GameData.Instance.gold}");
 
-        // 显示结果
         resultPanel.SetActive(true);
         resultText.text = choice.resultMessage;
 
-        // 隐藏按钮避免重复点击
         foreach (Transform child in choiceButtonContainer)
         {
             child.gameObject.SetActive(false);
@@ -67,8 +72,7 @@ public class EventManager : MonoBehaviour
         continueButton.onClick.RemoveAllListeners();
         continueButton.onClick.AddListener(() =>
         {
-            SceneManager.LoadScene("Map"); // 返回地图场景
+            SceneManager.LoadScene("Map");
         });
     }
-
 }

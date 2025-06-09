@@ -1,11 +1,14 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
 public class MainMenu : MonoBehaviour
 {
     public void OnStartButton()
     {
+        PlayerPrefs.DeleteKey("Map");
         SceneManager.LoadScene("ClassSelection");
+
     }
 
     public void OnExitButton()

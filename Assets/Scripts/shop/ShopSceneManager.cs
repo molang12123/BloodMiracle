@@ -25,9 +25,8 @@ public class ShopSceneManager : MonoBehaviour
 
     void BuyDamageBoost()
     {
-        if (GameData.Instance.gold >= 50)
+        if (GameData.Instance.SpendGold(50))
         {
-            GameData.Instance.gold -= 50;
             GameData.Instance.tempBonusDamageNextBattle += 3;
             Debug.Log("购买成功：下一场战斗攻击 +3");
             UpdateGoldUI();
@@ -38,19 +37,16 @@ public class ShopSceneManager : MonoBehaviour
         }
     }
 
+
     void BuyHeal()
     {
-        if (GameData.Instance.gold >= 30)
+        if (GameData.Instance.SpendGold(30))
         {
-            GameData.Instance.gold -= 30;
-
-            // 增加 currentHP，不超过 maxHP
             GameData.Instance.currentHP = Mathf.Min(
                 GameData.Instance.currentHP + 15,
                 GameData.Instance.maxHP
             );
 
-            //同步到 PlayerStats（如果当前场景中存在该组件）
             var stats = FindObjectOfType<PlayerStats>();
             if (stats != null)
             {
@@ -66,6 +62,7 @@ public class ShopSceneManager : MonoBehaviour
             Debug.Log("金币不足！");
         }
     }
+
     void UpdateGoldUI()
     {
         if (goldText != null)
@@ -74,7 +71,3 @@ public class ShopSceneManager : MonoBehaviour
         }
     }
 }
-
-
-
-

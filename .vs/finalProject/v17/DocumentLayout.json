@@ -3,92 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\core\\selectedcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\selectedcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\battle\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\ui\\classselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\classselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\character\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\cards\\carddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cards\\carddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\script_plus\\mapnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\script_plus\\mapnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\battle\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\battle\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\core\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|c:\\users\\lyong\\desktop\\final\\finalproject\\assets\\scripts\\restpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\restpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|c:\\users\\lyong\\desktop\\final\\finalproject\\assets\\scripts\\ui\\initialdeckdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\initialdeckdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\ui\\deckselectbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\deckselectbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\script_plus\\mapview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\script_plus\\mapview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\ui\\deckpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\deckpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\map\\mapmanagerorigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\mapmanagerorigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\shop\\shopscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop\\shopscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\script_plus\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\script_plus\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|c:\\users\\lyong\\desktop\\final\\finalproject\\assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\script_plus\\mapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\script_plus\\mapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\core\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\event\\eventdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\event\\eventdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|c:\\users\\lyong\\desktop\\final\\finalproject\\assets\\scripts\\treasuremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\treasuremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\script_plus\\mapplayertracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\script_plus\\mapplayertracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\character\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\event\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\event\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\core\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\battle\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\script_plus\\mapview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\script_plus\\mapview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\script_plus\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\script_plus\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\shop\\shopscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop\\shopscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\battle\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\script_plus\\nodeblueprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\script_plus\\nodeblueprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\battle\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\ui\\classselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\classselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\shop\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\ui\\deckpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\deckpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\cards\\carddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cards\\carddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|C:\\Users\\lyong\\Desktop\\final\\finalProject\\assets\\scripts\\event\\eventdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4693CC9-7351-3C81-4B8D-03475E1E1955}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\event\\eventdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,63 +86,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InitialDeckDisplay.cs",
-              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\UI\\InitialDeckDisplay.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\InitialDeckDisplay.cs",
-              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\UI\\InitialDeckDisplay.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\InitialDeckDisplay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T09:40:43.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SelectedCharacter.cs",
-              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Core\\SelectedCharacter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\SelectedCharacter.cs",
-              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Core\\SelectedCharacter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Core\\SelectedCharacter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvw0AAAATAAAAAAAAAA==",
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:28:37.233Z",
+              "WhenOpened": "2025-06-09T13:20:46.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 5,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Event\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Event\\EventManager.cs",
+              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Event\\EventManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Event\\EventManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:09:20.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GameData.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Core\\GameData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\GameData.cs",
               "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Core\\GameData.cs",
               "RelativeToolTip": "Assets\\Scripts\\Core\\GameData.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwEUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:28:19.008Z",
+              "WhenOpened": "2025-06-09T12:02:52.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerData.cs",
-              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Core\\PlayerData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\PlayerData.cs",
-              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Core\\PlayerData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Core\\PlayerData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:28:15.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CharacterData.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Character\\CharacterData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\CharacterData.cs",
@@ -162,128 +137,100 @@
               "RelativeToolTip": "Assets\\Scripts\\Character\\CharacterData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:28:10.551Z",
+              "WhenOpened": "2025-06-09T12:02:48.126Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TreasureManager.cs",
+              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\TreasureManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TreasureManager.cs",
+              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\TreasureManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TreasureManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:54:16.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NodeBlueprint.cs",
+              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\NodeBlueprint.cs",
+              "RelativeDocumentMoniker": "Assets\\Script_plus\\NodeBlueprint.cs",
+              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\NodeBlueprint.cs",
+              "RelativeToolTip": "Assets\\Script_plus\\NodeBlueprint.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:51:01.418Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "RestPointManager.cs",
-              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\RestPointManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\RestPointManager.cs",
-              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\RestPointManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\RestPointManager.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:26:03.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MapPlayerTracker.cs",
-              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\MapPlayerTracker.cs",
-              "RelativeDocumentMoniker": "Assets\\Script_plus\\MapPlayerTracker.cs",
-              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\MapPlayerTracker.cs",
-              "RelativeToolTip": "Assets\\Script_plus\\MapPlayerTracker.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:05:13.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DeckselectButtons.cs",
-              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\UI\\DeckselectButtons.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DeckselectButtons.cs",
-              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\UI\\DeckselectButtons.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\DeckselectButtons.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:04:11.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Node.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\Node.cs",
               "RelativeDocumentMoniker": "Assets\\Script_plus\\Node.cs",
               "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\Node.cs",
               "RelativeToolTip": "Assets\\Script_plus\\Node.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T04:32:21.411Z",
+              "WhenOpened": "2025-06-09T11:50:09.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapPlayerTracker.cs",
+              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\MapPlayerTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Script_plus\\MapPlayerTracker.cs",
+              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\MapPlayerTracker.cs",
+              "RelativeToolTip": "Assets\\Script_plus\\MapPlayerTracker.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:05:13.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MapNode.cs",
-              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\MapNode.cs",
-              "RelativeDocumentMoniker": "Assets\\Script_plus\\MapNode.cs",
-              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\MapNode.cs",
-              "RelativeToolTip": "Assets\\Script_plus\\MapNode.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAAAswMUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:29:24.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "MapManager.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\MapManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script_plus\\MapManager.cs",
               "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\MapManager.cs",
               "RelativeToolTip": "Assets\\Script_plus\\MapManager.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T15:01:18.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "MapView.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\MapView.cs",
               "RelativeDocumentMoniker": "Assets\\Script_plus\\MapView.cs",
               "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Script_plus\\MapView.cs",
               "RelativeToolTip": "Assets\\Script_plus\\MapView.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAgwJsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAmwFsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T14:57:43.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "DeckPreview.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\UI\\DeckPreview.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DeckPreview.cs",
               "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\UI\\DeckPreview.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\DeckPreview.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T12:09:45.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T12:09:45.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MapManagerOrigin.cs",
-              "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Map\\MapManagerOrigin.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\MapManagerOrigin.cs",
-              "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Map\\MapManagerOrigin.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Map\\MapManagerOrigin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T09:56:19.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "EventData.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Event\\EventData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Event\\EventData.cs",
@@ -295,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "CardDataBase.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Cards\\CardDataBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Cards\\CardDataBase.cs",
@@ -303,63 +250,60 @@
               "RelativeToolTip": "Assets\\Scripts\\Cards\\CardDataBase.cs",
               "ViewState": "AgIAAKcAAAAAAAAAAAAYwLYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:05:17.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T15:05:17.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "BattleSystem.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Battle\\BattleSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BattleSystem.cs",
               "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Battle\\BattleSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\Battle\\BattleSystem.cs",
-              "ViewState": "AgIAABEBAAAAAAAAAAAswBUBAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABkBAAAAAAAAAAAYwEIBAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T14:29:03.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "ShopSceneManager.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\shop\\ShopSceneManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\shop\\ShopSceneManager.cs",
               "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\shop\\ShopSceneManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\shop\\ShopSceneManager.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T14:25:49.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T14:25:49.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 15,
               "Title": "shopItem.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\shop\\shopItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\shop\\shopItem.cs",
               "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\shop\\shopItem.cs",
               "RelativeToolTip": "Assets\\Scripts\\shop\\shopItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T14:25:46.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "ClassSelection.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\UI\\ClassSelection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ClassSelection.cs",
               "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\UI\\ClassSelection.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ClassSelection.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwB4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T14:21:49.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T14:21:49.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "CharacterStats.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Battle\\CharacterStats.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\CharacterStats.cs",
@@ -367,21 +311,19 @@
               "RelativeToolTip": "Assets\\Scripts\\Battle\\CharacterStats.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T14:21:34.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T14:21:34.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "PlayerStats.cs",
               "DocumentMoniker": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Battle\\PlayerStats.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\PlayerStats.cs",
               "ToolTip": "C:\\Users\\lyong\\Desktop\\final\\finalProject\\Assets\\Scripts\\Battle\\PlayerStats.cs",
               "RelativeToolTip": "Assets\\Scripts\\Battle\\PlayerStats.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAiwCkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T14:19:44.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T14:19:44.263Z"
             }
           ]
         }

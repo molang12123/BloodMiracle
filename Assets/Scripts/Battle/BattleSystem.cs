@@ -40,7 +40,7 @@ public class BattleSystem : MonoBehaviour
 
     void Start()
     {
-        CharacterData character = SelectedCharacter.Instance?.characterData;
+        CharacterData character = PlayerData.selectedCharacter;
         if (character == null)
         {
             Debug.LogError("无法获取角色数据！");
@@ -310,8 +310,7 @@ public class BattleSystem : MonoBehaviour
     public void OnWinContinueButton()
     {
         PlayerStats playerStats = FindObjectOfType<PlayerStats>();
-        SelectedCharacter.Instance.characterData.currentHP = playerStats.currentHP;
-
+        PlayerData.selectedCharacter.currentHP = playerStats.currentHP;
         SceneManager.LoadScene("Map");
     }
 
@@ -324,10 +323,10 @@ public class BattleSystem : MonoBehaviour
     void ResetGameData()
     {
         // 重置角色数据
-        if (SelectedCharacter.Instance != null && SelectedCharacter.Instance.characterData != null)
+        if (PlayerData.selectedCharacter != null)
         {
-            var character = SelectedCharacter.Instance.characterData;
-            character.currentHP = character.maxHP;
+            PlayerData.selectedCharacter.currentHP = PlayerData.selectedCharacter.maxHP;
+            //character.currentHP = character.maxHP;
         }
 
         // 重置 GameData
