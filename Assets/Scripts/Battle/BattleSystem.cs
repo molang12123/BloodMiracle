@@ -294,7 +294,7 @@ public class BattleSystem : MonoBehaviour
             string sceneName = SceneManager.GetActiveScene().name;
             if (sceneName == "BossScene" && victoryPanel != null)
             {
-                victoryPanel.SetActive(true); // 打败 Boss，显示通关界面
+                victoryPanel.SetActive(false); // 打败 Boss，显示通关界面
             }
             else
             {
@@ -303,7 +303,7 @@ public class BattleSystem : MonoBehaviour
         }
         else
         {
-            losePanel.SetActive(true); // 失败界面
+            SceneManager.LoadScene("DeathTransition");
         }
     }
 
